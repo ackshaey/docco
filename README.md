@@ -1,5 +1,9 @@
 # Docco (with Kotlin Support)
 
+[![npm version](https://badge.fury.io/js/%40ackshaey%2Fdocco-kotlin.svg)](https://www.npmjs.com/package/@ackshaey/docco-kotlin)
+[![npm downloads](https://img.shields.io/npm/dm/@ackshaey/docco-kotlin.svg)](https://www.npmjs.com/package/@ackshaey/docco-kotlin)
+[![GitHub stars](https://img.shields.io/github/stars/ackshaey/docco.svg?style=social&label=Star)](https://github.com/ackshaey/docco)
+
 ```
  ____
 /\  _`\
@@ -11,6 +15,8 @@
 ```
 
 This is a fork of [jashkenas/docco](https://github.com/jashkenas/docco) with **Kotlin language support** added.
+
+> **📦 Now available on npm:** `npm install -g @ackshaey/docco-kotlin`
 
 ## What's New in This Fork
 
@@ -39,11 +45,13 @@ For more information about the original project, see: http://ashkenas.com/docco/
 
 ## Installation
 
-### Install from npm (once published)
+### Install from npm
 
 ```bash
 npm install -g @ackshaey/docco-kotlin
 ```
+
+[![NPM](https://nodei.co/npm/@ackshaey/docco-kotlin.png)](https://www.npmjs.com/package/@ackshaey/docco-kotlin)
 
 ### Install from source
 
