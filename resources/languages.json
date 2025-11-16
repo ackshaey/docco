@@ -37,6 +37,7 @@
   ".json5":       {"name": "javascript", "symbol": "//"},
   ".jsx":         {"name": "javascript", "symbol": "//"},
   ".java":        {"name": "java", "symbol": "//"},
+  ".kt":          {"name": "kotlin", "symbol": "//"},
   ".latex":       {"name": "tex", "symbol": "%"},
   ".less":        {"name": "less", "symbol": "//"},
   ".lisp":        {"name": "lisp", "symbol": ";"},
